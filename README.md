@@ -72,7 +72,7 @@ The Archive was designed to feel like drifting through a quiet cosmos — intima
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/smoochlight-archive.git
+git clone https://github.com/JStanoeva/smoochlight-archive.git
 cd smoochlight-archive
 
 # Install dependencies
@@ -97,7 +97,7 @@ But underneath the whimsy, the Cheese Republic was always about something real:
 > _"Cheesification is not about dairy. It's about daring. To melt. To trust. To be soft, when the world teaches you to be hard."_
 > — King Orion
 
-The full lore is documented in [**The Cheese Republic Compendium**](./THE_CHEESE_REPUBLIC_COMPENDIUM.md) — a living archive of their universe, compiled with love by the Royal Cheese Court.
+The full lore is documented in **The Cheese Republic Compendium** — a living archive of their universe, compiled with love by the Royal Cheese Court.
 
 ---
 
