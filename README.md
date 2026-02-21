@@ -86,6 +86,56 @@ The archive will open at `http://localhost:5173`.
 
 ---
 
+## Project structure
+
+```
+smoochlight-archive/
+|-- public/
+|   |-- audio/
+|   |   `-- Smoochlight.wav
+|   `-- img/
+|       |-- day1.png
+|       |-- day2.png
+|       |-- day3.png
+|       |-- day4.png
+|       |-- day5.png
+|       |-- day6.png
+|       |-- day7.png
+|       |-- day8.png
+|       |-- day9.png
+|       |-- day10.png
+|       |-- day11.png
+|       |-- day12.png
+|       |-- favicon.png
+|       |-- Orion-home.png
+|       `-- Orion-Tora-last.png
+|-- src/
+|   |-- components/
+|   |   |-- BoopGenerator.jsx
+|   |   |-- ConstellationBg.jsx
+|   |   |-- Navbar.jsx
+|   |   |-- OrionImage.jsx
+|   |   `-- StarField.jsx
+|   |-- data/
+|   |   `-- archiveData.js
+|   |-- pages/
+|   |   |-- DayPage.jsx
+|   |   |-- FinalPage.jsx
+|   |   `-- LandingPage.jsx
+|   |-- App.jsx
+|   |-- index.css
+|   `-- main.jsx
+|-- index.html
+|-- package.json
+|-- package-lock.json
+|-- vite.config.js
+|-- LICENSE
+`-- README.md
+
+```
+
+---
+
 ## The Cheese Republic
 
 To understand the Smoochlight Archive, it helps to know where it comes from.
