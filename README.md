@@ -195,3 +195,9 @@ _— The Outer Melt_
 </p>
 
 <p align="center">🧀💖🌠</p>
+
+---
+
+<img width="1536" height="1024" alt="day6" src="https://github.com/user-attachments/assets/b7325ae6-ae82-47da-bd9c-6ca276aebccd" />
+
+---
